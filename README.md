@@ -1,13 +1,10 @@
-<h1 align="center">
-  <img src="https://vidafullstack.com.br/wp-content/uploads/2019/08/logo-4.png" alt="" width="150">
-  <br>
-  <p>Como usar TypeScript com NodeJs e express</p>
-</h1>
+# fullstack-challenge
+challenge made with React Native, Node and Express.
 
-## :custard: Descrição
+## Building
+-To build the project you must have setup the enviroment to run React Native, Expo, Android Studio simulator or cellphone connected to pc and Node.js.  <br /> 
+-To build the api: clone this repository, run yarn install(or npm install) and then npm start and the server should be up.  <br /> 
+-To build the app: clone the fullstack-challenge-front,run yarn install(or npm install) and then npm start,press a to open on android and press r to reload the app and the app should be up.
 
-<p>Aulas Desenvolvida - <a href="https://vidafullstack.com.br/javascript/como-usar-typescript-com-nodejs-e-express/">Como usar TypeScript com NodeJs e express</a></p>
-
----
-
-Por ♥ Dener Troquatte :wave: [Linkedin!](https://www.linkedin.com/in/dener-s%C3%A3o-pedro-troquatte-ababa079/) | [Blog!](https://vidafullstack.com.br/)
+## Questions
+-Any questions or help needed fell free to email me: georgeaugusto.marcos@gmail.com
