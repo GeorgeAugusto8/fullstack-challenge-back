@@ -1,4 +1,6 @@
-export const posts = [
+import { Page, Post } from './Types/Constants.types';
+
+export const posts: Array<Post> = [
     { "title": "O Papel do novo centro da juventude para todos", "category": "messages", "content": "..." },
     { "title": "Mensagem de Natal 2020", "category": "messages", "content": "..." },
     { "title": "Obras na avenida 25 de Abril finalizadas atempadamente", "category": "news", "content": "..." },
@@ -11,7 +13,7 @@ export const posts = [
     { "title": "Taxas de saneamento", "category": "taxes", "content": "..." }
 ]
 
-export const pages = [
+export const pages: Array<Page> = [
     { "title": "Home", "icon": "home", "url": "", "notifications": 0, "content": [] },
     {
         "title": "Camera", "icon": "building", "url": "posts", "notifications": 0, "content": [
